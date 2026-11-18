@@ -29,7 +29,7 @@ const directDomains = [
 ];
 
 // 默认优选IP来源URL
-const defaultIPURL = 'https://raw.githubusercontent.com/qwer-search/bestip/refs/heads/main/kejilandbestip.txt';
+const defaultIPURL = 'https://raw.githubusercontent.com/tmdsb0/cf-ip-page/refs/heads/main/public/ip.txt';
 
 // UUID验证
 function isValidUUID(str) {
